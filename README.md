@@ -1,7 +1,7 @@
 
 # Pizza App
 
-A react.js based application to help a local pizza shop using redex
+A react.js based application to help a local pizza shop using redux
 
 
 
